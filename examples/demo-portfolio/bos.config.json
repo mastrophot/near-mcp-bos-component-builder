@@ -1,0 +1,6 @@
+{
+  "componentName": "demo-portfolio",
+  "template": "portfolio-card",
+  "widgetId": "<account.near>/widget/demo-portfolio",
+  "description": "Generated BOS component"
+}

@@ -19,6 +19,11 @@ Built-in templates:
 - `token-swap-widget`
 - `portfolio-card`
 
+Generated example scaffolds are included in:
+- `examples/demo-minimal`
+- `examples/demo-token-swap`
+- `examples/demo-portfolio`
+
 ## Install
 
 ```bash

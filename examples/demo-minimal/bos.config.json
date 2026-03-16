@@ -1,0 +1,6 @@
+{
+  "componentName": "demo-minimal",
+  "template": "minimal",
+  "widgetId": "<account.near>/widget/demo-minimal",
+  "description": "Generated BOS component"
+}

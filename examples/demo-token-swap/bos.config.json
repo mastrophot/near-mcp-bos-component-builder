@@ -1,0 +1,6 @@
+{
+  "componentName": "demo-token-swap",
+  "template": "token-swap-widget",
+  "widgetId": "<account.near>/widget/demo-token-swap",
+  "description": "Generated BOS component"
+}
