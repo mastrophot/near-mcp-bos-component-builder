@@ -28,6 +28,14 @@
   ],
   "author": "Mastrophot",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastrophot/near-mcp-bos-component-builder.git"
+  },
+  "homepage": "https://github.com/mastrophot/near-mcp-bos-component-builder#readme",
+  "bugs": {
+    "url": "https://github.com/mastrophot/near-mcp-bos-component-builder/issues"
+  },
   "engines": {
     "node": ">=18"
   },
